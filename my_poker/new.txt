@@ -1,0 +1,8 @@
+my_poker.c
+c:\users\prasad\desktop\spring14 lectures\cs580\project\my_poker\my_poker.c(335) : warning C4715: 'max_value' : not all control paths return a value
+c:\users\prasad\desktop\spring14 lectures\cs580\project\my_poker\my_poker.c(363) : warning C4715: 'min_value' : not all control paths return a value
+Microsoft (R) Incremental Linker Version 11.00.50727.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:my_poker.exe 
+my_poker.obj 

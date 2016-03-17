@@ -1,0 +1,269 @@
+C:\Users\Prasad\Desktop\Spring14 Lectures\CS580\project\my_poker>my_poker
+ROUND 1
+
+Player 1 has 100 coins:
+
+Player 2 has 100 coins:
+
+Enter any key to continue.........
+
+
+
+Player 1 has following cards:
+Diamonds of Jack
+Diamonds of Ace
+
+
+
+
+Player 2 has following cards:
+ Five of Diamonds
+Seven of Clubs
+
+
+
+
+Table has following cards:
+ Jack of Clubs
+  Ten of Diamonds
+Three of Diamonds
+ King of Spades
+Eight of Hearts
+
+
+-----FLOP------------
+
+ Jack of Clubs
+  Ten of Diamonds
+Three of Diamonds
+
+
+
+ Enter a key to open TURN
+
+
+
+-----TURN------------
+
+ King of Spades
+
+
+
+ Enter a key to open RIVER
+
+
+
+-----RIVER------------
+
+Eight of Hearts
+
+
+
+ Player1 has FOUR OF A KIND:
+
+ Player2 has THREE OF A KIND:
+
+--------------Player1 won this round-------------------
+
+ROUND 2
+
+Player 1 has 130 coins:
+
+Player 2 has 70 coins:
+
+Enter any key to continue.........
+
+
+
+Player 1 has following cards:
+Hearts of Ace
+Clubs of Three
+
+
+
+
+Player 2 has following cards:
+Eight of Hearts
+ Four of Spades
+
+
+
+
+Table has following cards:
+  Two of Diamonds
+Three of Diamonds
+ Nine of Spades
+  Ace of Diamonds
+  Two of Hearts
+
+
+-----FLOP------------
+
+  Two of Diamonds
+Three of Diamonds
+ Nine of Spades
+
+
+
+ Enter a key to open TURN
+
+
+
+-----TURN------------
+
+  Ace of Diamonds
+
+
+
+ Enter a key to open RIVER
+
+
+
+-----RIVER------------
+
+  Two of Hearts
+
+
+
+ Player1 has FOUR OF A KIND:
+
+ Player2 has FLUSH:
+
+--------------Player1 won this round-------------------
+
+ROUND 3
+
+Player 1 has 160 coins:
+
+Player 2 has 40 coins:
+
+Enter any key to continue.........
+
+
+
+Player 1 has following cards:
+Hearts of Ace
+Clubs of Three
+
+
+
+
+Player 2 has following cards:
+Eight of Hearts
+ Four of Spades
+
+
+
+
+Table has following cards:
+  Two of Diamonds
+Three of Diamonds
+ Nine of Spades
+  Ace of Diamonds
+  Two of Hearts
+
+
+-----FLOP------------
+
+  Two of Diamonds
+Three of Diamonds
+ Nine of Spades
+
+
+
+ Enter a key to open TURN
+
+
+
+-----TURN------------
+
+  Ace of Diamonds
+
+
+
+ Enter a key to open RIVER
+
+
+
+-----RIVER------------
+
+  Two of Hearts
+
+
+
+ Player1 has FOUR OF A KIND:
+
+ Player2 has FLUSH:
+
+--------------Player1 won this round-------------------
+
+ROUND 4
+
+Player 1 has 190 coins:
+
+Player 2 has 10 coins:
+
+Enter any key to continue.........
+
+
+
+Player 1 has following cards:
+Hearts of Ace
+Clubs of Three
+
+
+
+
+Player 2 has following cards:
+Eight of Hearts
+ Four of Spades
+
+
+
+
+Table has following cards:
+  Two of Diamonds
+Three of Diamonds
+ Nine of Spades
+  Ace of Diamonds
+  Two of Hearts
+
+
+-----FLOP------------
+
+  Two of Diamonds
+Three of Diamonds
+ Nine of Spades
+
+
+
+ Enter a key to open TURN
+
+
+
+-----TURN------------
+
+  Ace of Diamonds
+
+
+
+ Enter a key to open RIVER
+
+
+
+-----RIVER------------
+
+  Two of Hearts
+
+
+
+ Player1 has FOUR OF A KIND:
+
+ Player2 has FLUSH:
+
+--------------Player1 won this round-------------------
+
+
+--------------------GAME OVER------------------------------
+
+------------------PLAYER 1 WON THE GAME-------------------------
